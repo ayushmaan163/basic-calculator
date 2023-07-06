@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Belanosima", sans-serif;
+  background-color: #c5dff8;
+  text-align: center;
+}
+
+#num1-el,
+#num2-el {
+  display: inline-block;
+  font-size: 30px;
+  padding: 10px;
+  color: #4a55a2;
+  border-bottom: 4px solid #4a55a2;
+  margin: 140px 0 15px 10px;
+}
+
+#sum-el {
+  font-size: 40px;
+  padding: 10px;
+  color: #4a55a2;
+  border-bottom: 4px solid #4a55a2;
+}
+
+button {
+  margin: 50px;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: #4a55a2;
+  color: #a0bfe0;
+  cursor: pointer;
+}
